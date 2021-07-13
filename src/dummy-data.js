@@ -54,6 +54,31 @@ const dummyData = [
             },
         ],
     },
+    {
+        id: 3,
+        username: "kennymiesner",
+        thumbnailUrl: 'https://ca.slack-edge.com/ESZCHB482-U022HAMLQN8-cb5f6043f29e-512',
+        imageUrl: 'https://images.unsplash.com/photo-1618182374430-5079abd2fc88?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80',
+        likes: 51714,
+        timestamp: "July 13th 2021, 4:13:40 pm",
+        comments: [
+            {
+                id: 22,
+                username: "kennymiesner",
+                text: "Loved this building's vibe!",
+            },
+            {
+                id: 23,
+                username: "abbymiesner",
+                text: "Let's go back!",
+            },
+            {
+                id: 24,
+                username: "randomguy",
+                text: "Dope shot, bruh",
+            },
+        ],
+    },
 ];
 
 export default dummyData;
